@@ -1,2 +1,2 @@
 # spellChecker
-Spell-Checker application that checks your spelling in a document.
+Spell-Checker application that checks and fixes your spelling in a document.
